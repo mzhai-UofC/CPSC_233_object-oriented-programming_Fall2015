@@ -227,39 +227,3 @@ public class Manager
 }
 
 
-/*public class Manager {
-	    //constrctor
-        public  Manager(){
-
-        }
-
-        //Add a movie to the collection
-        public void add(){
-
-        }
-
-        //Display implemented
-        public void display(){
-
-        }
-
-        //Search
-        public void search(){
-        	
-        }
-        
-        //Remove a movie from the list
-        public void remove(){
-        	
-        }
-
-        //Opposite order display
-        public void opposite(){
-        	
-        }
-        
-        //helper
-        public void helper(){
-        	
-        }
-}*/
